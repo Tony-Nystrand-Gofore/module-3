@@ -1,14 +1,18 @@
-# Context Management
+<div align="center">
 
-<img alt="Amin 2.0" src="https://github.com/Tony-Nystrand-Gofore/module-3/blob/main/.github/images/amin2_smile.png?raw=true" align="right" height="200px" />
+# 🎉 Congratulations Tony-Nystrand-Gofore! 🎉
 
-Hey Tony-Nystrand-Gofore!
+<img alt="badge module 3/11 complete" src="https://github.com/Tony-Nystrand-Gofore/module-3/blob/main/.github/images/badge-module-03.png?raw=true" height="200px" />
 
-Amin 2.0 here. I'm done preparing your exercise. Hope you enjoy! 💚
+### 🌟 You've successfully completed the exercise! 🌟
 
-Remember, it's self-paced so feel free to take a break! ☕️
+### 🎯 What's Next?
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Tony-Nystrand-Gofore/module-3/issues/1)
+**Keep the momentum going!**
+
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Tony-Nystrand-Gofore/module-3/issues/1)
+
+</div>
 
 ---
 
